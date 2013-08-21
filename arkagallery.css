@@ -1,0 +1,4 @@
+/* Style For Arka gallery */
+.arkagallery-caption{position:absolute; left: 35%; top: 394px; width: 40%; height: 22px; z-index:200; background-color:#333; color:#FFF;
+}
+.arkagallery-image{position:absolute; width: 50%; height: 324px; left: 30%; top: 170px;}

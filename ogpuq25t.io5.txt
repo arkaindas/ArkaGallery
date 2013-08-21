@@ -1,0 +1,16 @@
+﻿#addning all files.
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   Nice002.jpg
+#	new file:   Nice005.JPG
+#	new file:   Nice007.jpg
+#	new file:   Nice009.jpg
+#	new file:   arkagallery.css
+#	new file:   arkagallery.js
+#	new file:   index.html
+#
+
