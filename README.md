@@ -9,4 +9,4 @@ index.html
 arkagallery.js
 arkagallery.css
 ====================
-<a href="http://fb.com/arkaindas">Conatct Me </a>
+<a href="http://fb.com/arkaindas">Contact Me </a>
